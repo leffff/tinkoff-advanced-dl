@@ -1,0 +1,6 @@
+torchvision
+numpy
+pandas
+torch
+torchmetrics
+scikit-learn
